@@ -1,0 +1,23 @@
+#song-canvas {
+	float: left;
+	width: 80%;
+}
+
+#song-name, #artist-name {
+	width: 100%;
+	display: block;
+	text-align: center;
+	outline: none;
+	border: none;
+}
+
+#song-lyrics, #song-chords {
+	border: 1px solid #404040;
+	opacity: 0.7;
+	background-color: #ffffff;
+	width: 47%;
+	min-height: 95%;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
